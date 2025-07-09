@@ -1,4 +1,4 @@
-# **Dynamic Parking Pricing **
+# Dynamic Parking Pricing 
 
 ## **Project Overview**
 
