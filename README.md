@@ -1,4 +1,4 @@
-# **Dynamic Parking Pricing and Rerouting System**
+# **Dynamic Parking Pricing **
 
 ## **Project Overview**
 
